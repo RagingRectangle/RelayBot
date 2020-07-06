@@ -3,7 +3,7 @@ A Discord bot to run on a Raspberry Pi that reads MADevice notifications and aut
 
 
 ## INSTALLATION
-> git clone https://github.com/RagingRectangle/RelayBot.git && cd RelayBot  
+> git clone http://github.com/RagingRectangle/RelayBot.git && cd RelayBot  
 > cp -r config_example config  
 > npm install  
 > cd config && nano config.ini  
